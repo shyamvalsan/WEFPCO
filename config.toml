@@ -6,7 +6,7 @@ theme = "hargo"
 summaryLength = "20"
 paginate = 10
 disqusShortname = ""
-
+ 
 ############################# Plugins ##############################
 [params.plugins]
 
@@ -80,7 +80,7 @@ disqusShortname = ""
 
 
 #################### default parameters ################################
-[params]
+[params] 
 logo = "images/logo1.png"
 home = "Home"
 # Meta data
@@ -117,7 +117,7 @@ copyright = "| Copyright &copy; 2020 WEFPCO Ltd |"
 
   # Social Site
   [[params.social]]
-  icon = "ti-facebook"
+  icon = "ti-facebook" 
   link = "#"
 
   [[params.social]]
