@@ -4,7 +4,11 @@ contact:
   # office
   office:
     title : "Central Office"
-    content : "Westernghat Farmer Producer Company Ltd, 19/2026 A27, Indus Avenue, Kallai Road, Chalappuram P.O., Kozhikode 673002, Kerala, India"
+    content : "Westernghat Farmer Producer Company Ltd,
+               19 / 2026 A27, Indus Avenue, Kallai Road, 
+               Chalappuram P.O.,  
+               Kozhikode 673002, 
+               Kerala, India"
     # other information comes from "config.toml"
 
   # opening hour
