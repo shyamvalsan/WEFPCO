@@ -74,7 +74,7 @@ disqusShortname = ""
 logo = "images/logo1.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Western Ghat Farmer Producer Company"
 author = "Shyam Sreevalsan"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -92,6 +92,8 @@ copyright = "| Copyright &copy; 2020 WEFPCO Ltd |"
 # Snipcart Credentials
 #snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 #currencySymbol = "$"
+faviconfile = "images/favicon.ico"
+
 
   # Preloader
   [params.preloader]
@@ -125,3 +127,4 @@ copyright = "| Copyright &copy; 2020 WEFPCO Ltd |"
   # Contact Form
   [params.contact]
   formAction = "https://formspree.io/f/xgepnjnp" # contact form works with formspree.io
+
