@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://wefpco.com/"
 languageCode = "en"
 title = "WEFPCO | Western Ghat Farmer Producer Company"
 theme = "hargo"
