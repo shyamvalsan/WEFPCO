@@ -52,14 +52,14 @@
 }
 
 .client-img {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
   border-radius: 50%;
   border: 1px solid $primary-color;
   margin: -70px auto 20px;
 }
 
-/* rating */
+/* rating 
 .rating {
 
   &.five {
@@ -127,7 +127,7 @@
   }
 }
 
-/* /rating */
+ rating */
 
 .slick-arrow {
   position: absolute;
@@ -305,7 +305,7 @@
 
 /* snipcart */
 .snip-layout .snip-layout__main-container {
-  top: 100px;
+  top: 1px;
 }
 
 .snip-header__title {
