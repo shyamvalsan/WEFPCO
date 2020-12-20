@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://brave-roentgen-3fcfb3.netlify.app/"
+baseURL = "https://www.wefpco.com/"
 languageCode = "en"
 title = "WEFPCO | Western Ghat Farmer Producer Company"
 theme = "hargo"
