@@ -74,7 +74,7 @@ disqusShortname = ""
 logo = "images/logo1.png"
 home = "Home"
 # Meta data
-description = "Western Ghat Farmer Producer Company"
+description = "Western Ghat Farmer Producer Company Ltd"
 author = "Shyam Sreevalsan"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -85,7 +85,7 @@ mapMarker = "images/marker.png"
 googleAnalitycsID = "" # Your ID
 # Contact Information
 mobile = "+919388110491, +919895602061, +919447784367"
-email = "emailwefpcoindia@gmail.com"
+email = "wefpcoindia@gmail.com"
 location = "Kozhikode, Kerala, India"
 # copyright
 copyright = "| Copyright &copy; 2020 WEFPCO Ltd |"
