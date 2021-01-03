@@ -69,7 +69,7 @@ advantage:
     - listItem : "Arrange field trips to various farms in the region"
     - listItem : "Guidance and support for farmers in the production of value added items" 
     - listItem : "Soil examination support and recommendations to improve soil quality"
-    - listItem : "Regular follow ups with partnered farmers and information sharinh"
+    - listItem : "Regular follow ups with partnered farmers and information sharing"
 
 
 ######################## Promo Video ##########################
@@ -83,56 +83,60 @@ video:
 
 
 ########################## Testimonial ########################
+
 testimonial:
   enable : true
-  title : "Meet our promoters"
+  title : "Meet our founding members"
   testimonialItem:
     # testimonial item loop
-    - name : "P.V.Krishnan Kutty"
+    - name : "P.V.Krishnankutty"
       image : "images/clients/promo2.jpg" # size 100px*100px
-      designation : "Experiened Farmer and Environmentalist"
-
-    # testimonial item loop
-    - name : "K.N.Chandrasekharan"
-      image : "images/clients/promo1.jpg" # size 100px*100px
-      designation : "Retired Bank Manager and Farmer"
-
-    # testimonial item loop
-    - name : "T.V.Sreedharan"
-      image : "images/clients/promo9.jpg" # size 100px*100px
-      designation : "Businessman and Farmer"
-
-    # testimonial item loop
-    - name : "K.P.Pushpakaran"
-      image : "images/clients/promo3.jpg" # size 100px*100px
-      designation : "Retired School Teacher and Farmer"
-    
-    # testimonial item loop
-    - name : "P.K.Sasidharan"
-      image : "images/clients/promo7.jpg" # size 100px*100px
-      designation : "Pravasi returned to India, Farmer"
-
-    # testimonial item loop
-    - name : "P.C.Sajimon"
-      image : "images/clients/promo6.jpg" # size 100px*100px
-      designation : "Experienced Farmer"
-
-    # testimonial item loop
-    - name : "P.M.Satheesh Kumar"
-      image : "images/clients/promo8.jpg" # size 100px*100px
-      designation : "Retired Head Master and Farmer"
-
-    # testimonial item loop
-    - name : "T.A.Sadanandan"
-      image : "images/clients/promo4.jpg" # size 100px*100px
-      designation : "Experienced Farmer, also runs a dairy farm"
-
-    # testimonial item loop
-    - name : "P.K.Rahul"
-      image : "images/clients/promo5.jpg" # size 100px*100px
-      designation : "IT Professional, Dairy Farmer"
+      designation : "Chairman"
 
     # testimonial item loop
     - name : "A.Sreevalsan"
       image : "images/clients/promo0.jpg" # size 100px*100px
-      designation : "Retired IT Professional, Environmentalist and Farmer"
+      designation : "Managing Director"
+
+
+    # testimonial item loop
+    - name : "K.N.Chandrasekharan"
+      image : "images/clients/promo1.jpg" # size 100px*100px
+      designation : "Director (Finance)"
+
+    # testimonial item loop
+    - name : "T.V.Sreedharan"
+      image : "images/clients/promo9.jpg" # size 100px*100px
+      designation : "Director (Business)"
+
+    # testimonial item loop
+    - name : "K.P.Pushpakaran"
+      image : "images/clients/promo3.jpg" # size 100px*100px
+      designation : "Director (Farming)"
+    
+    # testimonial item loop
+    - name : "P.K.Sasidharan"
+      image : "images/clients/promo7.jpg" # size 100px*100px
+      designation : "Promoter/Marketing"
+
+    # testimonial item loop
+    - name : "P.M.Satheesh Kumar"
+      image : "images/clients/promo8.jpg" # size 100px*100px
+      designation : "Promoter/Public Relations"
+
+    # testimonial item loop
+    - name : "P.C.Sajimon"
+      image : "images/clients/promo6.jpg" # size 100px*100px
+      designation : "Promoter/Business"
+
+
+    # testimonial item loop
+    - name : "T.A.Sadanandan"
+      image : "images/clients/promo4.jpg" # size 100px*100px
+      designation : "Promoter/Farming"
+
+    # testimonial item loop
+    - name : "P.K.Rahul"
+      image : "images/clients/promo5.jpg" # size 100px*100px
+      designation : "Promoter/Technical"
+

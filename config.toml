@@ -110,19 +110,19 @@ faviconfile = "images/favicon.ico"
   # Social Site
   [[params.social]]
   icon = "ti-facebook" 
-  link = "#"
+  link = "https://www.facebook.com/wefpco"
 
   [[params.social]]
   icon = "ti-twitter-alt"
-  link = "#"
+  link = "https://www.facebook.com/wefpco"
 
   [[params.social]]
   icon = "ti-youtube"
-  link = "#"
+  link = "https://www.facebook.com/wefpco"
 
   [[params.social]]
   icon = "ti-instagram"
-  link = "#"
+  link = "https://www.facebook.com/wefpco"
 
   # Contact Form
   [params.contact]
