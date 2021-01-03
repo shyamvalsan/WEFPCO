@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "The Western Ghat Farmer Producer Company"
+  title : "The Western Ghat Farmer Producer Company Ltd."
   content : "We are a farmers collective owned and managed by farmers. We promote nature friendly cultivation in the eco sensitive Western Ghat region. 
              Our goal is to empower farmers to use sustainable farming techniques while ensuring fair value for their produce."
   image : "images/banner.jpg"
