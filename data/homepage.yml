@@ -25,32 +25,6 @@ about:
   image : "images/about.jpg" 
 
  
-######################## raw material #######################
-material:
-  enable : false
-  title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
-  materialItem:
-    # material item loop
-    - title : "Matcha Seeds"
-      image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
-      
-    # material item loop
-    - title : "Aloe Vera"
-      image : "images/material/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
-      
-    # material item loop
-    - title : "Turmeric"
-      image : "images/material/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
-      
-    # material item loop
-    - title : "Tulshi leaf"
-      image : "images/material/material-4.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
 
 ########################### Activities #########################
 advantage:
@@ -139,4 +113,24 @@ testimonial:
     - name : "P.K.Rahul"
       image : "images/clients/promo5.jpg" # size 100px*100px
       designation : "Promoter/Technical"
+
+######################## raw material #######################
+material:
+  enable : true
+  title : "Our Business Associates"
+  #subtitle : "Lorem ipsum dolor sit amet."
+  materialItem:
+    # material item loop
+    - title : " "
+      image : "images/material/material-1.png"
+      content : " "
+
+    - title : "Kopfe Naturals"
+      image : "images/material/material-2.png"
+      content : "Kopfe Naturals is an agricultural company doing multi farming & allied businesses.  http://kopfe.in/"
+      
+    # material item loop
+    - title : "Polso Renewable Energy"
+      image : "images/material/material-3.png"
+      content : "Renewable energy company that manufactures and supplies batteries across India. http://polso.in/"
 
